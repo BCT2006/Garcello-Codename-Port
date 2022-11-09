@@ -5,5 +5,5 @@
     <anim name="singLEFT"   anim="garcello Sing Note LEFT"   fps="24"    loop="false" x="0" y="0"/>
     <anim name="singRIGHT"  anim="garcello Sing Note RIGHT"  fps="24"    loop="false" x="0" y="0"/>
     <anim name="singDOWN"   anim="garcello Sing Note DOWN"   fps="24"    loop="false" x="-1" y="0"/>
-    <anim name="tightbarslittleman"   anim="garcello coolguy"   fps="24"    loop="false" x="0" y="0"/>
+    <anim name="tightbarslittleman"   anim="garcello coolguy"   fps="15"    loop="false" x="0" y="0"/>
 </character>
