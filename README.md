@@ -7,4 +7,4 @@ I usually don't release them, but I though I should release this one, maybe peop
 
 I made this in like 2 hours, and I plan to update it.
 
-If you have questions on how something works you can ping me in the discord, no promises that ill respond though.
+If you have questions on how something works you can ping me in the codename discord, no promises that ill respond though.
