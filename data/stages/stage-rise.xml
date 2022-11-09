@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="rise" folder="stages/rise">
+    <sprite name="garStagebgRise"               x="-548" y="-252"   sprite="garStagebgRise"       scroll="0.9" />
+    <sprite name="garStageRise"       x="-592" y="-222"    sprite="garStageRise"      scroll="1" />
+    <girlfriend />
+    <dad />
+    <boyfriend />
+</stage>

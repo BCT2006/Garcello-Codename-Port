@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="alley2" folder="stages/alleything2">
+    <sprite name="garStagebgAlt"               x="-548" y="-252"   sprite="garStagebgAlt"       scroll="0.9" />
+    <sprite name="garStagealt"       x="-592" y="-222"    sprite="garStagealt"      scroll="1" />
+    <girlfriend />
+    <dad />
+    <boyfriend />
+</stage>

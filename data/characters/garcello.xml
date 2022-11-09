@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="-150" y="0" holdTime="6.1">
+    <anim name="idle"       anim="garcello idle dance"       fps="24"    loop="false" x="0" y="0"/>
+    <anim name="singUP"     anim="garcello Sing Note UP"     fps="24"    loop="false" x="-2" y="0"/>
+    <anim name="singLEFT"   anim="garcello Sing Note LEFT"   fps="24"    loop="false" x="9" y="-1"/>
+    <anim name="singRIGHT"  anim="garcello Sing Note RIGHT"  fps="24"    loop="false" x="3" y="0"/>
+    <anim name="singDOWN"   anim="garcello Sing Note DOWN"   fps="24"    loop="false" x="-4" y="-4"/>
+</character>

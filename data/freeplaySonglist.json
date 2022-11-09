@@ -1,0 +1,21 @@
+{
+    "addOGSongs": true,
+    "songs": [
+        {
+            "name": "headache",
+            "icon": "garcello"
+        },
+        {
+            "name": "nerves",
+            "icon": "garcello"
+        },
+        {
+            "name": "release",
+            "icon": "garcello"
+        },
+        {
+            "name": "fading",
+            "icon": "garcello"
+        }
+    ]
+}
